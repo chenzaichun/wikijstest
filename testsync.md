@@ -10,4 +10,4 @@ hostname
 print("Hello world")
 ```
 
-![testimage](imgs/aaa.png)
+![testimage](./imgs/aaa.png)
